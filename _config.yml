@@ -81,8 +81,8 @@ sidebar-avatar: /img/school2.jpg      # use absolute URL, seeing it's used in bo
 
 
 # Featured Tags
-featured-tags: false                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
 
 
 
@@ -99,35 +99,15 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
+  
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "我",
-        href: "http://github.com/qbsz"
-    },{
+        {
         title: "学校",
         href: "https://qbsz.js.org"
     },{
-        title: "GitHub",
-        href: "http://github.com"
-    },{
-        title: "GitHub pages",
-        href: "http://pages.github.com/"
-    },{
         title: "hux",
         href: "http://huangxuan.me"
-    },{
-        title: "我的博客",
-        href: "http://crqblog.github.io/"
-    },{
-        title: "csdn",
-        href: "https://blog.csdn.net/"
-    },{
-        title: "help",
-        href: "http://help.github.com"
-    },{
-        title: "crqshmh",
-        href: "http://github.com/crqshmh"
     }
 ]
